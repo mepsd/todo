@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>TRootech Todo</h1>
+    <h1>Demo Todo</h1>
     <div id="nav">
       <router-link to="/"
         ><b-button variant="outline-primary">Home</b-button></router-link
